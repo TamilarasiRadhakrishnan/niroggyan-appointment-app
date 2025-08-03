@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Meera Sharma",
+    "specialization": "Cardiologist",
+    "image": "https://via.placeholder.com/100",
+    "availability": "Available Today"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Raj Patel",
+    "specialization": "Dermatologist",
+    "image": "https://via.placeholder.com/100",
+    "availability": "On Leave"
+  }
+]
